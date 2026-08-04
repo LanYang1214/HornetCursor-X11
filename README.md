@@ -56,7 +56,7 @@ Run the following command in your terminal to apply the theme instantly:
 gsettings set org.gnome.desktop.interface cursor-theme 'HornetCursor'
 ```
 
-### 5. FAQ
+### 3. FAQ
 
 #### Q1: If Tweaks doesn't recognize the theme
 This is usually caused by one of three common issues:
@@ -88,7 +88,7 @@ This setting is permanent and will persist after rebooting your system.
 
 ## Credits
 
-- Original created by [绿亡](https://space.bilibili.com/362158444) on www.bilibili.com, [click here for the original post](https://www.bilibili.com/video/BV1rwntz7ETr)
+- Original created by [绿亡](https://space.bilibili.com/362158444) on Bilibili, [click here for the original post](https://www.bilibili.com/video/BV1rwntz7ETr)
 - This adaption is created with permission of the original creator:
 ![chat history with the author](permission-from-author.jpg)
 
