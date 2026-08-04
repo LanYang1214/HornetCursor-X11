@@ -90,7 +90,7 @@ This setting is permanent and will persist after rebooting your system.
 
 - Original created by [绿亡](https://space.bilibili.com/362158444) on Bilibili, [click here for the original post](https://www.bilibili.com/video/BV1rwntz7ETr)
 - This adaption is created with permission of the original creator:
-![chat history with the author](permission-from-author.png)
+![chat history with the author](permission.jpg)
 
 ## Support the Creator! ❤️
 
