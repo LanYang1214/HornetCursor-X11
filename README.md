@@ -7,6 +7,8 @@
 
 A Linux cursor theme of Hornet from *Hollow Knight: Sliksong*. All icons formatted as X11 cursors, available for GNOME, KDE Plasma, XFCE, etc. You can download this repo and install this theme by click the `installer.sh` file, or just download the `HornetCursor` folder and apply it by the instruction below.
 
+plus: the three icons in the `addon/` folder are made by me, following the original style. I didn't include them in the installer script though, you can manually add them if you like.
+
 ---
 
 ## Quick start
